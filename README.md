@@ -5,9 +5,9 @@
 
 | The languages i code with |      My work config      |
 |:-------------------------:|:------------------------:|
-|          Rust 🦀          |         Arch 💻        |
-|       Javascript 🟨       |       VSCodium 👨‍💻       |
-|       HTML / CSS 🌐       |   Figma / Inkscape 🎨   |
+|          Rust 🦀          |         Fedora 💻        |
+|       Javascript 🟨       |        VSCodium 👨‍💻       |
+|       HTML / CSS 🌐       |    Figma / Inkscape 🎨   |
 |         Python 🐍         |  <!--      yay      -->  |
 
 <br />
