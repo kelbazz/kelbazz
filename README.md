@@ -5,7 +5,7 @@
 
 | The languages i code with |      My work config      |
 |:-------------------------:|:------------------------:|
-|          Rust 🦀          |         Fedora 💻        |
+|          Rust 🦀          |     Fedora / Arch 💻     |
 |       Javascript 🟨       |        VSCodium 👨‍💻       |
 |       HTML / CSS 🌐       |    Figma / Inkscape 🎨   |
 |         Python 🐍         |  <!--      yay      -->  |
